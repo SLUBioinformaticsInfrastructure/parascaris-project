@@ -20,8 +20,9 @@ ln -s /proj/snic2020-16-13/reference .
 
 ### Variant (SNP and Indel) calling and Structural Variant (SV) Calling
 
-# scripts
-./Run-pacbio-workflow_1.2_SMRT_Mapping-SV-calling.sh
-./Run-pacbio-workflow_1.3_GATK_Multi-Sample-Variant-calling .sh
+* scripts
+Run-pacbio-workflow_1.2_SMRT_Mapping-SV-calling.sh
+
+Run-pacbio-workflow_1.3_GATK_Multi-Sample-Variant-calling .sh
 
 ### Phylogenetic analysis
