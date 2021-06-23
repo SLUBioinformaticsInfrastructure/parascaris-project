@@ -1,0 +1,13 @@
+Ancylostoma duodenale
+Ascaris lumbricoides
+Ascaris suum
+Brugia malayi
+Caenorhabditis elegans
+Haemonchus contortus
+Necator americanus
+Onchocerca volvulus
+Strongyloides stercoralis
+Teladorsagia circumcincta
+Toxocara canis
+Trichuris suis
+Trichinella spiralis
