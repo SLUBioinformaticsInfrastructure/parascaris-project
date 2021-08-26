@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2021-08-26T15:46:27.871+01:00" submissionFile="UPSC-0181.Submission.xml" success="true">
+     <EXPERIMENT accession="ERX6191822" alias="UPSC-0181-E0001" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191823" alias="UPSC-0181-E0002" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191824" alias="UPSC-0181-E0003" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191825" alias="UPSC-0181-E0004" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191826" alias="UPSC-0181-E0005" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191827" alias="UPSC-0181-E0006" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191828" alias="UPSC-0181-E0007" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191829" alias="UPSC-0181-E0008" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191830" alias="UPSC-0181-E0009" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191831" alias="UPSC-0181-E0010" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191832" alias="UPSC-0181-E0011" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191833" alias="UPSC-0181-E0012" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191834" alias="UPSC-0181-E0013" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191835" alias="UPSC-0181-E0014" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191836" alias="UPSC-0181-E0015" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191837" alias="UPSC-0181-E0016" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191838" alias="UPSC-0181-E0017" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191839" alias="UPSC-0181-E0018" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191840" alias="UPSC-0181-E0019" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191841" alias="UPSC-0181-E0020" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191842" alias="UPSC-0181-E0021" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191843" alias="UPSC-0181-E0022" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191844" alias="UPSC-0181-E0023" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191845" alias="UPSC-0181-E0024" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191846" alias="UPSC-0181-E0025" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191847" alias="UPSC-0181-E0026" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191848" alias="UPSC-0181-E0027" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX6191849" alias="UPSC-0181-E0028" status="PRIVATE"/>
+     <RUN accession="ERR6565632" alias="UPSC-0181-R0001" status="PRIVATE"/>
+     <RUN accession="ERR6565633" alias="UPSC-0181-R0002" status="PRIVATE"/>
+     <RUN accession="ERR6565634" alias="UPSC-0181-R0003" status="PRIVATE"/>
+     <RUN accession="ERR6565635" alias="UPSC-0181-R0004" status="PRIVATE"/>
+     <RUN accession="ERR6565636" alias="UPSC-0181-R0005" status="PRIVATE"/>
+     <RUN accession="ERR6565637" alias="UPSC-0181-R0006" status="PRIVATE"/>
+     <RUN accession="ERR6565638" alias="UPSC-0181-R0007" status="PRIVATE"/>
+     <RUN accession="ERR6565639" alias="UPSC-0181-R0008" status="PRIVATE"/>
+     <RUN accession="ERR6565640" alias="UPSC-0181-R0009" status="PRIVATE"/>
+     <RUN accession="ERR6565641" alias="UPSC-0181-R0010" status="PRIVATE"/>
+     <RUN accession="ERR6565642" alias="UPSC-0181-R0011" status="PRIVATE"/>
+     <RUN accession="ERR6565643" alias="UPSC-0181-R0012" status="PRIVATE"/>
+     <RUN accession="ERR6565644" alias="UPSC-0181-R0013" status="PRIVATE"/>
+     <RUN accession="ERR6565645" alias="UPSC-0181-R0014" status="PRIVATE"/>
+     <RUN accession="ERR6565646" alias="UPSC-0181-R0015" status="PRIVATE"/>
+     <RUN accession="ERR6565647" alias="UPSC-0181-R0016" status="PRIVATE"/>
+     <RUN accession="ERR6565648" alias="UPSC-0181-R0017" status="PRIVATE"/>
+     <RUN accession="ERR6565649" alias="UPSC-0181-R0018" status="PRIVATE"/>
+     <RUN accession="ERR6565650" alias="UPSC-0181-R0019" status="PRIVATE"/>
+     <RUN accession="ERR6565651" alias="UPSC-0181-R0020" status="PRIVATE"/>
+     <RUN accession="ERR6565652" alias="UPSC-0181-R0021" status="PRIVATE"/>
+     <RUN accession="ERR6565653" alias="UPSC-0181-R0022" status="PRIVATE"/>
+     <RUN accession="ERR6565654" alias="UPSC-0181-R0023" status="PRIVATE"/>
+     <RUN accession="ERR6565655" alias="UPSC-0181-R0024" status="PRIVATE"/>
+     <RUN accession="ERR6565656" alias="UPSC-0181-R0025" status="PRIVATE"/>
+     <RUN accession="ERR6565657" alias="UPSC-0181-R0026" status="PRIVATE"/>
+     <RUN accession="ERR6565658" alias="UPSC-0181-R0027" status="PRIVATE"/>
+     <RUN accession="ERR6565659" alias="UPSC-0181-R0028" status="PRIVATE"/>
+     <SAMPLE accession="ERS7485559" alias="UPSC-0181-S0001" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806919" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485560" alias="UPSC-0181-S0002" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806920" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485561" alias="UPSC-0181-S0003" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806921" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485562" alias="UPSC-0181-S0004" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806922" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485563" alias="UPSC-0181-S0005" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806923" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485564" alias="UPSC-0181-S0006" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806924" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485565" alias="UPSC-0181-S0007" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806925" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485566" alias="UPSC-0181-S0008" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806926" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485567" alias="UPSC-0181-S0009" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806927" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485568" alias="UPSC-0181-S0010" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806928" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485569" alias="UPSC-0181-S0011" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806929" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485570" alias="UPSC-0181-S0012" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806930" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485571" alias="UPSC-0181-S0013" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806931" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485572" alias="UPSC-0181-S0014" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806932" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485573" alias="UPSC-0181-S0015" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806933" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485574" alias="UPSC-0181-S0016" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806934" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485575" alias="UPSC-0181-S0017" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806935" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485576" alias="UPSC-0181-S0018" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806936" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485577" alias="UPSC-0181-S0019" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806937" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485578" alias="UPSC-0181-S0020" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806938" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485579" alias="UPSC-0181-S0021" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806939" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485580" alias="UPSC-0181-S0022" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806940" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485581" alias="UPSC-0181-S0023" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806941" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485582" alias="UPSC-0181-S0024" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806942" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485583" alias="UPSC-0181-S0025" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806943" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485584" alias="UPSC-0181-S0026" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806944" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485585" alias="UPSC-0181-S0027" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806945" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS7485586" alias="UPSC-0181-S0028" status="PUBLIC">
+          <EXT_ID accession="SAMEA9806946" type="biosample"/>
+     </SAMPLE>
+     <STUDY accession="ERP131464" alias="UPSC-0181" status="PUBLIC">
+          <EXT_ID accession="PRJEB47205" type="Project"/>
+     </STUDY>
+     <SUBMISSION accession="ERA5937124" alias="UPSC-0181"/>
+     <MESSAGES>
+          <INFO>All objects in this submission are set to public status (RELEASE).</INFO>
+     </MESSAGES>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>RELEASE</ACTIONS>
+</RECEIPT>

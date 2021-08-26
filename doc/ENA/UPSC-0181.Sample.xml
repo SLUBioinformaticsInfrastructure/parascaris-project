@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.sample.xsd">
+ <SAMPLE alias="UPSC-0181-S0001" center_name="UPSC">
+  <TITLE>bc1001--bc1093</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgR003_g161 from the farm Farm 1 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0002" center_name="UPSC">
+  <TITLE>bc1001--bc1094</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgR003_g161 from the farm Farm 2 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0003" center_name="UPSC">
+  <TITLE>bc1001--bc1095</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgR003_g161 from the farm Farm 3 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0004" center_name="UPSC">
+  <TITLE>bc1001--bc1096</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgR003_g161 from the farm Farm 4 ( Susceptible phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0005" center_name="UPSC">
+  <TITLE>bc1002--bc1093</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgE153_g002 from the farm Farm 1 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0006" center_name="UPSC">
+  <TITLE>bc1002--bc1094</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgE153_g002 from the farm Farm 2 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0007" center_name="UPSC">
+  <TITLE>bc1002--bc1095</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgE153_g002 from the farm Farm 3 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0008" center_name="UPSC">
+  <TITLE>bc1002--bc1096</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgE153_g002 from the farm Farm 4 ( Susceptible phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0009" center_name="UPSC">
+  <TITLE>bc1003--bc1093</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgR007_g022 from the farm Farm 1 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0010" center_name="UPSC">
+  <TITLE>bc1003--bc1094</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgR007_g022 from the farm Farm 2 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0011" center_name="UPSC">
+  <TITLE>bc1003--bc1095</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgR007_g022 from the farm Farm 3 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0012" center_name="UPSC">
+  <TITLE>bc1003--bc1096</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgR007_g022 from the farm Farm 4 ( Susceptible phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0013" center_name="UPSC">
+  <TITLE>bc1004--bc1093</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgB10_g062 from the farm Farm 1 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0014" center_name="UPSC">
+  <TITLE>bc1004--bc1094</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgB10_g062 from the farm Farm 2 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0015" center_name="UPSC">
+  <TITLE>bc1004--bc1095</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgB10_g062 from the farm Farm 3 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0016" center_name="UPSC">
+  <TITLE>bc1004--bc1096</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgB10_g062 from the farm Farm 4 ( Susceptible phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0017" center_name="UPSC">
+  <TITLE>bc1005--bc1093</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgR045_g070 from the farm Farm 1 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0018" center_name="UPSC">
+  <TITLE>bc1005--bc1094</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgR045_g070 from the farm Farm 2 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0019" center_name="UPSC">
+  <TITLE>bc1005--bc1095</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgR045_g070 from the farm Farm 3 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0020" center_name="UPSC">
+  <TITLE>bc1005--bc1096</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgR045_g070 from the farm Farm 4 ( Susceptible phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0021" center_name="UPSC">
+  <TITLE>bc1006--bc1093</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgB04_g136 from the farm Farm 1 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0022" center_name="UPSC">
+  <TITLE>bc1006--bc1094</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgB04_g136 from the farm Farm 2 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0023" center_name="UPSC">
+  <TITLE>bc1006--bc1095</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgB04_g136 from the farm Farm 3 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0024" center_name="UPSC">
+  <TITLE>bc1006--bc1096</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgB04_g136 from the farm Farm 4 ( Susceptible phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0025" center_name="UPSC">
+  <TITLE>bc1007--bc1093</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgB04_g135 from the farm Farm 1 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0026" center_name="UPSC">
+  <TITLE>bc1007--bc1094</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgB04_g135 from the farm Farm 2 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0027" center_name="UPSC">
+  <TITLE>bc1007--bc1095</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgB04_g135 from the farm Farm 3 ( Resistant phenotype)</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0181-S0028" center_name="UPSC">
+  <TITLE>bc1007--bc1096</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>6257</TAXON_ID>
+   <SCIENTIFIC_NAME>Parascaris univalens</SCIENTIFIC_NAME>
+   <COMMON_NAME>Parascaris univalens</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>beta-tubulin gene PgB04_g135 from the farm Farm 4 ( Susceptible phenotype)</DESCRIPTION>
+ </SAMPLE>
+</SAMPLE_SET>

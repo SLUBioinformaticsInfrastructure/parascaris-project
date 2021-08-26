@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RUN_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.run.xsd">
+ <RUN alias="UPSC-0181-R0001" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0001"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1001--bc1093.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="1a3c561a9fee68f9f8c1a68a7644a3f2"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0002" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0002"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1001--bc1094.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="6e6bbd23d4159c3d98739da724fb636b"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0003" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0003"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1001--bc1095.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="44be1a199d8d4fc08adddc2cdbc33a4a"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0004" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0004"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1001--bc1096.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="c7bc420c178a9bdbe8e54ed596860674"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0005" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0005"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1002--bc1093.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="28a679a4dff9fa267583ebc12b4b7a04"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0006" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0006"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1002--bc1094.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="5718d0552d73fa0518f92255fd6522c2"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0007" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0007"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1002--bc1095.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="4032223eefdbe57180176056d1626179"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0008" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0008"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1002--bc1096.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="461454180d8165f25cb39866c7d9fe11"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0009" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0009"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1003--bc1093.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="77aad5ce3a5ea8c54fb5dfe1d971f6d8"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0010" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0010"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1003--bc1094.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="5b2429425654aae7d2aae5f13462297e"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0011" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0011"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1003--bc1095.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="5a46e711efdf7588c2ab6273333027fc"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0012" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0012"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1003--bc1096.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="5650421d8283326aefac20cc3548429b"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0013" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0013"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1004--bc1093.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="a424ca947c53b47a2a631b56fc037695"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0014" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0014"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1004--bc1094.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="64b408507aa62b0269466ac6880e6d4f"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0015" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0015"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1004--bc1095.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="dc80cd523bfdc5fcf7258440124f4be5"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0016" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0016"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1004--bc1096.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="b2fdba01d94076559b329b7d06520947"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0017" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0017"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1005--bc1093.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="4a5f98244377d631ddb8d79002b537e0"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0018" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0018"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1005--bc1094.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="2b0fbbc153d29c2c9dc9bb92ad03d15e"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0019" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0019"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1005--bc1095.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="fa34e1f089c41f982d5fa4f011e20733"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0020" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0020"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1005--bc1096.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="44331a1056a18c1142c33d888fd09bf5"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0021" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0021"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1006--bc1093.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="f9b359e76448e4c3f77fe3cb49df56ff"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0022" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0022"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1006--bc1094.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="5be15fff2001a97cf074084699d6c347"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0023" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0023"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1006--bc1095.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="e821586e28eeaac8e4be1466bfad27d8"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0024" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0024"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1006--bc1096.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="33d2d9290ba045943c00316d7a710840"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0025" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0025"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1007--bc1093.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="79839af7f2b1b7bfa534dcc13a9aeea6"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0026" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0026"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1007--bc1094.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="397de5dfba449f6b0bfaf9a909e75e5b"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0027" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0027"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1007--bc1095.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="5442d23046effc7ae595c662541aef64"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0181-R0028" center_name="UPSC" run_center="SciLifeLab" run_date="2020-12-22T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0181-E0028"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0181/demultiplex.bc1007--bc1096.hifi_reads.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="ae4a4dad39454090ecdb689d6d65be25"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+</RUN_SET>
